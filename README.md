@@ -27,4 +27,4 @@ Di menu ini memiliki 5 pilihan menu yaitu :
 
 Progress :
 - Menu utama (Selesai)
-- Menu tampilan kelola tempat & kelola rencana (Selesai)
+- Menu Kelola Tempat Wisata (Selesai)
